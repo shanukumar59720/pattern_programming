@@ -1,0 +1,4 @@
+three types of patterns are there -
+1. Star Pattern
+2. Numeric Pattern
+3. Character Pattern
