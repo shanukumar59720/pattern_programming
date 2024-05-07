@@ -1,6 +1,9 @@
+// inverted right triangle
+
+
 import java.util.Scanner;
 
-public class invertedRightTriangle {
+public class p5invertedRightTriangle {
     public static void main(String[] args) {
         int num;
         Scanner sc = new Scanner(System.in);
