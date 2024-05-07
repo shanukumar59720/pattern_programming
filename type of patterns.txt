@@ -2,3 +2,32 @@ three types of patterns are there -
 1. Star Pattern
 2. Numeric Pattern
 3. Character Pattern
+
+************************************
+
+Star pattern
+1. pyramid
+2. right triangle
+3. left triangle
+4. diamond shape
+5. downward triangle
+6. mirrored right triangle
+7. reversed pyramid
+8. right down mirror
+9. right pascal's triangle
+10. left pascal's triangle
+11. sandglass
+12. alphabets A
+13. hollow triangle 
+14. down triangle
+15. diamond triangle
+16. diamond star
+
+Numeric pattern
+1. simple numbers
+2. pascal's triangle
+3. diamond pattern
+4. descending order pattern
+5. right triangle numberic pattern
+6. binary number pattern
+7. diamond num
