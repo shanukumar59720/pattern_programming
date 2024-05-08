@@ -16,7 +16,8 @@ public class p13HollowTriangle {
 
         for (int i = 5; i >=1; i--) {                       
             for (int j = 5; j>=i; j--) {
-                if()
+                // if()
+                System.out.print("* ");
             }
             System.out.println();
         }
