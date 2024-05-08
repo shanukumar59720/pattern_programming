@@ -13,7 +13,6 @@ Star pattern
 * diamond shape ✔
 * downward triangle ✔
 * reversed pyramid ✔
-
 * right pascal's triangle ✔
 * left pascal's triangle ✔
 * sandglass ✔
