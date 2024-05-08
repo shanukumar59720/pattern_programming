@@ -10,13 +10,13 @@ Star pattern
 * pyramid ✔
 * right triangle ✔
 * left triangle ✔
-* diamond shape 〰
+* diamond shape ✔
 * downward triangle ✔
 * reversed pyramid ✔
 
-* right pascal's triangle 〰
-* left pascal's triangle 〰
-* sandglass 〰
+* right pascal's triangle ✔
+* left pascal's triangle ✔
+* sandglass ✔
 * hollow triangle 〰
 * down triangle ✔
 * diamond triangle 〰
